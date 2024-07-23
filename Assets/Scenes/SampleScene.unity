@@ -430,22 +430,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1183723600030059592, guid: c2970eeb5d782024da0e94b414736b3e, type: 3}
-      propertyPath: _speedMove
-      value: 200
-      objectReference: {fileID: 0}
-    - target: {fileID: 1183723600030059592, guid: c2970eeb5d782024da0e94b414736b3e, type: 3}
-      propertyPath: _scaleChange.x
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1183723600030059592, guid: c2970eeb5d782024da0e94b414736b3e, type: 3}
-      propertyPath: _scaleChange.y
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1183723600030059592, guid: c2970eeb5d782024da0e94b414736b3e, type: 3}
-      propertyPath: _scaleChange.z
-      value: 0.1
-      objectReference: {fileID: 0}
     - target: {fileID: 7742438161693618488, guid: c2970eeb5d782024da0e94b414736b3e, type: 3}
       propertyPath: m_Name
       value: Cube

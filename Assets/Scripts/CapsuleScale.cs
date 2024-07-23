@@ -4,7 +4,7 @@ public class CapsuleScale : MonoBehaviour
 {
     [SerializeField] private Vector3 _scaleChange;
 
-    void Update()
+    private void Update()
     {
         Grow();
     }

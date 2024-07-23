@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 8398740423759104690}
   - component: {fileID: 8311283725683491940}
   - component: {fileID: 8565435912934501223}
-  - component: {fileID: 6341434543670408441}
-  - component: {fileID: 1183723600030059592}
+  - component: {fileID: 8326253994361437871}
+  - component: {fileID: 4601692968022392430}
+  - component: {fileID: 3577286291148316720}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -30,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 7742438161693618488}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 3.26, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -107,34 +108,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!54 &6341434543670408441
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7742438161693618488}
-  serializedVersion: 4
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 80
-  m_CollisionDetection: 0
---- !u!114 &1183723600030059592
+--- !u!114 &8326253994361437871
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -143,9 +117,33 @@ MonoBehaviour:
   m_GameObject: {fileID: 7742438161693618488}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 35ee4a102b1345d47b42a6a356e9356f, type: 3}
+  m_Script: {fileID: 11500000, guid: 678e9127eff616c458315784e7e269b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speedMove: 100
-  _speedRotation: 0.2
-  _rotateDirection: {x: 0, y: 30, z: 0}
+  _movementDirection: {x: 0, y: 0, z: 1}
+--- !u!114 &4601692968022392430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7742438161693618488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6279fa5dfb24b489a9208bcff0840d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _speedRotation: 20
+--- !u!114 &3577286291148316720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7742438161693618488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af106a5f733f374eb0ac04cb80cd9dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _scaleChange: {x: 0.1, y: 0.1, z: 0.1}

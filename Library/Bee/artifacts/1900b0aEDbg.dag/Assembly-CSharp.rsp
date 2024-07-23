@@ -357,7 +357,6 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/CapsuleScale.cs"
 "Assets/Scripts/CubeRotation.cs"
-"Assets/Scripts/Movament.cs"
 "Assets/Scripts/SphereMovable.cs"
 -langversion:9.0
 /deterministic

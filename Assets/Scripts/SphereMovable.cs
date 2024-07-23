@@ -5,7 +5,7 @@ public class SphereMovable : MonoBehaviour
 {
     [SerializeField] private Vector3 _movementDirection;
 
-    void Update()
+    private void Update()
     {
         Move();
     }

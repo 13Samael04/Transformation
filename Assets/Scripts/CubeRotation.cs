@@ -4,7 +4,7 @@ public class CubeRotation : MonoBehaviour
 {
     [SerializeField] private float _speedRotation;
 
-    void Update()
+    private void Update()
     {
         Rotate();
     }

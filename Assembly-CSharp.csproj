@@ -62,7 +62,6 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\SphereMovable.cs" />
     <Compile Include="Assets\Scripts\CubeRotation.cs" />
-    <Compile Include="Assets\Scripts\Movament.cs" />
     <Compile Include="Assets\Scripts\CapsuleScale.cs" />
   </ItemGroup>
   <ItemGroup>
