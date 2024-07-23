@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Transformation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|d:\\unity\\transformation\\assets\\scripts\\movament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|d:\\unity\\transformation\\assets\\scripts\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movament.cs",
+              "DocumentMoniker": "D:\\Unity\\Transformation\\Assets\\Scripts\\Movament.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movament.cs",
+              "ToolTip": "D:\\Unity\\Transformation\\Assets\\Scripts\\Movament.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movament.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:58:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transformation.cs",
+              "DocumentMoniker": "D:\\Unity\\Transformation\\Assets\\Scripts\\Transformation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transformation.cs",
+              "ToolTip": "D:\\Unity\\Transformation\\Assets\\Scripts\\Transformation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:40:16.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
