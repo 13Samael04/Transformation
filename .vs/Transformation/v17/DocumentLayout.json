@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Unity\\Transformation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|d:\\unity\\transformation\\assets\\scripts\\movament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|d:\\unity\\transformation\\assets\\scripts\\capsulescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\capsulescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|D:\\Unity\\Transformation\\assets\\scripts\\movament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|d:\\unity\\transformation\\assets\\scripts\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D37A7A71-D093-A5DE-27AD-E0CF9314C20D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Transformation\\assets\\scripts\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CapsuleScale.cs",
+              "DocumentMoniker": "D:\\Unity\\Transformation\\Assets\\Scripts\\CapsuleScale.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CapsuleScale.cs",
+              "ToolTip": "D:\\Unity\\Transformation\\Assets\\Scripts\\CapsuleScale.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CapsuleScale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:21:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Movament.cs",
               "DocumentMoniker": "D:\\Unity\\Transformation\\Assets\\Scripts\\Movament.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movament.cs",
@@ -30,21 +47,19 @@
               "RelativeToolTip": "Assets\\Scripts\\Movament.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:58:36.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T10:58:36.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Transformation.cs",
               "DocumentMoniker": "D:\\Unity\\Transformation\\Assets\\Scripts\\Transformation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Transformation.cs",
               "ToolTip": "D:\\Unity\\Transformation\\Assets\\Scripts\\Transformation.cs",
               "RelativeToolTip": "Assets\\Scripts\\Transformation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:40:16.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T12:40:16.195Z"
             }
           ]
         }

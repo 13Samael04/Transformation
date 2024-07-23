@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2592268028740027697}
   - component: {fileID: 7309257591618792824}
   - component: {fileID: 6910048671257830695}
-  - component: {fileID: 6238769915236687785}
+  - component: {fileID: 5605434397666058838}
   m_Layer: 0
   m_Name: CubeRotation
   m_TagString: Untagged
@@ -106,7 +106,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &6238769915236687785
+--- !u!114 &5605434397666058838
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -115,8 +115,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4976575476630672587}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 502d32c568ac9a846b28aa7f666e1b73, type: 3}
+  m_Script: {fileID: 11500000, guid: 4b6279fa5dfb24b489a9208bcff0840d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _movementDirection: {x: 0, y: 0, z: 0}
   _speedRotation: 100
